@@ -1,7 +1,7 @@
-serverHost=craftcodehouse.co.uk
+serverUser=$1
+serverHost=$2
 
-
-rsync -rptvz --delete -e ssh  . craftcodehouse.co.uk@$serverHost:antSiteWww
+rsync -rptvz --delete -e ssh  . $serverUser@$serverHost:antSiteWww
 
 
 
