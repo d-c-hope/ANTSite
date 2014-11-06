@@ -5,7 +5,7 @@ At Nursery Today Website
 
 This repo contains the code for the At Nursery today Website. 
 
-Feel free to look at this for ideas but the content is copyright Craft Code House so please contact at info.craftcodehouse.co.uk if you wish to use the content of the web pages or copy the whole site styling. The Javascript and any html/css associated with the menu are free to use
+Feel free to look at this for ideas but the content is copyright Craft Code House so you must contact me at info.craftcodehouse.co.uk if you wish to use the content of the web pages or copy the whole site styling. The Javascript and any html/css associated with the menu are free to use
 
 To move these files to a webserver you can use either the hard coded rsyncing.sh (which i use on my local test server when developing) or rsyncingMT.sh which I use when pushing to places like media temple. These assume that all files go into a directory in home called antSiteWww
 
