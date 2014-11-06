@@ -1,0 +1,148 @@
+div.test {
+	width:700px;
+	background-color:green;
+}
+
+#navmenu {
+    margin-left: 50px;
+}
+
+#navmenu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+    
+}
+
+#navmenu li { 
+display: inline-block; 
+padding: 20px; 
+padding: 5px;
+
+border-radius: 5px;
+margin-bottom: 20px;
+margin-right: 20px;
+}
+
+#navmenu a {
+    text-decoration: none;
+/*    color: #00F;*/
+    color: white;
+    padding: 8px 8px 8px 8px;
+}
+
+#navmenu li:hover {
+    color: #F90;
+    background-color: rgb(71, 130, 255);
+}
+
+#navmenu li.selected {
+    color: #F90;
+    background-color: rgb(71, 130, 255);
+}
+
+div.miniMenu {
+	display:none;
+}
+
+
+ul.miniMenu {
+	display: none;
+}
+
+
+div.page{
+    margin-left: 50px;
+    margin-right: 50px;
+    max-width: 1000px;
+    min-width: 800px;
+}
+
+div.header{
+    background-color: #56B661;
+    margin-top: 20px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+div.content {
+	margin-left:40px;
+	margin-right: 40px;
+	min-height:600px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	line-height: 1.3em;
+	font-size: 13pt;   
+	max-width: 650px;
+}
+
+img.imageByTextTop, img.imageByTextBigAboveSm {
+    float:right;
+    margin-left: 25px;
+	margin-bottom: 30px;
+	width:300px;
+}
+
+img.imageAtTop {
+    width:600px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: Bitter, Georgia, serif;
+	line-height: 30px;
+}
+
+h1 {
+    font-weight: bold;
+    color:blue;
+    font-size: 27pt;
+    margin:20px 0px 30px 0px
+}
+
+h2 {
+    font-size: 20pt;
+    margin:30px 0px 20px 0px;
+	color: green;
+}
+
+h3 {
+    font-size: 16pt;
+    margin:10px 0px 10px 10px
+}
+
+h4 {
+	margin-top: 15px
+}
+
+p {
+    margin-bottom: 10px;
+    line-height: 1.3em;
+    font-size: 13pt;
+}
+
+div.content ol, div.content ul {
+	margin-top:10px;
+	list-style-position: inside;
+}
+
+
+div.footer {
+	background: #D4E4D3;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top:20px;
+}
+
+div.footer img{
+	height: 30px;
+	margin-left:10px;
+	vertical-align:middle;
+}
+
+
+   
+}
+
+
+
