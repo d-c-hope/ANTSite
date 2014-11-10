@@ -6,7 +6,7 @@ There are two costs associated with the app:
   <li>A one off cost to purchase tablets</li>
   <li>An on going, monthly subscription to the service.</li>
 </ul>
-The standard tablets we recommend are the 10 inch Samsung Galaxy Tab 4 (&pound;250-280) or the Google Nexus 9 (&pound;300) but there are cheaper Android tablets available which you can be used instead. Where you already have suitable tablets then this cost won't apply.
+The standard tablets we recommend are the 10 inch Samsung Galaxy Tab 4 (&pound;250-280) or the Google Nexus 9 (&pound;300) but there are cheaper Android tablets available which can be used instead. Where you already have suitable tablets then this cost won't apply.
 
 The monthly subscription is negotiable dependent on the number of children at a nursery and pays for the nursery and parent websites.
  

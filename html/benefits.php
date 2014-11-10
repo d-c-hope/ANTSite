@@ -9,7 +9,7 @@ Our software provides you with the following benefits:
 	<li>Parents and carers are kept informed and updated on their child's day at nursery.</li>
 	<li>Differentiate yourself from all the rest and show your setting to be at the forefront of technology.</li>
 	<li>Customise the app to include a personal list of the wide range of activities on offer at your setting.</li>
-	<li>Provides evidence for Ofsted to see what life at your setting is like for any one individual child. It demonstrates a history of their likes, interests etc and shows their progression from any given point.</li>
+	<li>Provides evidence for Ofsted to see what life is like at your setting for any one individual child. It demonstrates a history of their likes, interests etc and shows their progression from any given point.</li>
 	<li>During a consultation meeting your settings individual requirements are taken on board in order to tailor ANT to meet your needs.</li>
 	<li>More than one email address can be used meaning that parents/ carers who are absent on business etc are still updated and involved.</li>
 	
@@ -43,6 +43,6 @@ Our application was developed in collaboration with the acclaimed Sheffield nurs
 <li>"I regularly work away and in the past I felt at a real disadvantage not being able to pick up my child and chat to staff about his development. The emailed reports have totally negated this and I now feel fully involved and I look forward to receiving the reports every day"</li>
 
 <h4 class="quotesIntro">What the management said:</h4>
-<li>"Our printing costs have gone down by nearly &pound;2200. We can not believe the difference it has made"</li>
+<li>"Our printing costs have gone down by nearly &pound;2200. We cannot believe the difference it has made"</li>
 <li>"The admin site is really easy to use - we had lots of assistance when setting it all up, and to be honest it went without a hitch"</li>
 <li>"Most day we receive emails from parents/ carers thanking us for the detailed reports/ photographs - it's lovely to hear such positive feedback from something that was so easy to implement"</li>

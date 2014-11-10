@@ -12,10 +12,10 @@
 		</p>
 		<h2>Features</h2>
 		<ul>
-			<li>Staff use our, simple, secure tablet app for providing detailed reports on each child's day such as activities, sleep, meals, notifications etc.</li>
+			<li>Staff use our simple, secure tablet app for providing detailed reports on each child's day such as activities, sleep, meals, nursery news or announcements etc.</li>
 			<li>A child's recorded activities can be linked to the Early Years Foundation Stage - EYFS.</li>
-			<li>The information entered by staff is automatically generated into a well written report which is emailed to parents/ carers.</li>
-			<li>A secure, password proected parental website also allows viewing of reports and photos</li>
+			<li>The information entered by staff is automatically generated into a well written report which is emailed to parents/ carers. No more spelling/grammatical errors</li>
+			<li>A secure, password protected parental website also allows viewing of reports and photos</li>
 			<li>Easy administration website for nursery staff to add children and customise reports</li>
 			<li>For larger settings or where children spend time in more than 1 room, information can be shared between tablets.</li>
 		</ul>

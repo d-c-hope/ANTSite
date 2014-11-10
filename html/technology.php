@@ -17,5 +17,5 @@ In order to get a child's information onto the system in the first place an admi
 	<li>Upload attachments that can be sent to parents with daily reports</li>
 </ul>
 <h2>Security</h2>
-Security has been designed into the system from the beginning to ensure that each child's information is safe. Neither other parents nor even nursery staff can browse a childs information once uploaded. All services are password protected and encryption is used for all transfer to our servers.
+Security has been designed into the system from the beginning to ensure that each child's information is safe. Neither other parents nor even nursery staff can browse a child's information once uploaded. All services are password protected and encryption is used for all transfer to our servers.
 

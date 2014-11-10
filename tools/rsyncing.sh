@@ -1,7 +1,7 @@
 serverHost=192.168.1.13
 
 
-rsync -rptvz --delete -e ssh  . cchsite@$serverHost:antSiteWww
+rsync -rptvz --delete --exclude '.git' -e ssh  . cchsite@$serverHost:antSiteWww
 
 
 

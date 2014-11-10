@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteRule   ^$    index.php?title=introduction
+RewriteRule   ^([a-zA-Z0-9_]+)$    index.php?title=$1	[L]
+RewriteRule   ^dynamic/([a-zA-Z0-9_]+)$    dynamicIndex.php?title=$1	[L]
+
+# BEGIN (mt) controlled settings
+<IfModule !mod_fcgid.c>
+  AddHandler php-stable .php
+</IfModule>
+<IfModule mod_fcgid.c>
+  AddHandler fcgid-script .php
+  <Files *.php>
+    Options +ExecCGI
+  </Files>
+</IfModule>
+# END (mt) controlled settings
