@@ -120,6 +120,10 @@ p {
     font-size: 13pt;
 }
 
+p.contactDetails {
+	margin-top: 10px;
+}
+
 div.content ol, div.content ul {
 	margin-top:10px;
 	list-style-position: inside;
