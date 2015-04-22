@@ -1,14 +1,11 @@
 <h1>Further Information</h1>
-<h2 class="belowTitle">Pricing</h2>
+<h2 class="belowTitle">Getting started</h2>
 <img class="imageByTextTop" src="/images/tabletChild.jpg" alt="Using the tablet" />
-There are two costs associated with the app: 
-<ul>
-  <li>A one off cost to purchase tablets</li>
-  <li>An on going, monthly subscription to the service.</li>
-</ul>
-The standard tablets we recommend are the 10 inch Samsung Galaxy Tab 4 (&pound;250-280) or the Google Nexus 9 (&pound;300) but there are cheaper Android tablets available which can be used instead. Where you already have suitable tablets then this cost won't apply.
+<p>If you want to try out the app and you already have an Android tablet then it is easy to do so. Just go to the Google Play Store on your tablet and search for At Nursery Today.</p>
 
-The monthly subscription is negotiable dependent on the number of children at a nursery and the features you require.
+<p>
+Once you have the app then just ask for a test account using the email address below. Please ask if you have any other questions, for example if you are unsure as to what tablet model you need.	
+</p>
  
 <h2>Brochure</h2>
 Click <a href="files/AtNurseryTodayBrochure.pdf">here</a> to download our flyer which summarises At Nursery Today
