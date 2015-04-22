@@ -144,6 +144,28 @@ div.footer img{
 	vertical-align:middle;
 }
 
+table.priceTable {
+	width: 80%;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+table.priceTable td, table.priceTable th  {
+	padding: 5px;
+}
+
+tr.headerRow {
+	background-color: rgba(61, 62, 62, 0.26);
+}
+
+tr.oddRow {
+	background-color: rgba(197, 199, 230, 0.26);
+}
+
+tr.evenRow {
+	/*background-color: rgba(197, 199, 230, 0.26);*/
+}
 
    
 }

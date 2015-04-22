@@ -3,6 +3,7 @@
 						"benefits" => "Benefits", 
 						"eyfs" => "EYFS", 
 						"technology" => "Technology",
+						"pricing" => "Pricing",
 						"furtherinfo" => "Further Information");
 	
 ?>

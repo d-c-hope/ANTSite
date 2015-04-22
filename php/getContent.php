@@ -13,6 +13,9 @@ function getContent($title) {
 		case "technology":
 			require('html/technology.php');
 		    break;
+		case "pricing":
+			require('html/pricing.php');
+		    break;
 		case "furtherinfo":
 			require('html/furtherinfo.php');
 		    break;
