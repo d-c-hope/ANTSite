@@ -9,7 +9,9 @@ Feel free to look at this for ideas but the content is copyright Craft Code Hous
 
 To move these files to a webserver you can use either the hard coded rsyncing.sh (which i use on my local test server when developing) or rsyncingMT.sh which I use when pushing to places like media temple. These assume that all files go into a directory in home called antSiteWww
 
-You would run like ./rsyncingMT.sh <username> <hostname>
+You would run like 
+	./rsyncingMT.sh <username> <hostname>
+assuming the script had been copied to the top level. Otherwise as ./tools/rsyncingMT <username> <hostname>
 
 On the server you can use one of two scripts to copy into the appropriate place. CopyToWWW.sh just deletes /var/www and then copies in the contents of antSiteWww.
 
